@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/cdd59b271676
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/LibreTV/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/LibreTV-CN/releases) 下载。
 
 
 ☕ 觉得有用的话，可以到 [AFDIAN](https://afdian.com/a/veehub) 请我喝杯咖啡。
